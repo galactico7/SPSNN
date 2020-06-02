@@ -1,0 +1,2 @@
+# SPSNN
+sequence learning
